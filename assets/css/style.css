@@ -76,6 +76,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Changed the div tag to main  */
+
 main {
     width: 75%;
     display: inline-block;
@@ -108,6 +110,7 @@ main {
     max-height: 200px;
 }
 
+/* Adding a display of flex and adding a flex-wrap  and a flex to aside */
 
 aside {
     margin-right: 20px;
